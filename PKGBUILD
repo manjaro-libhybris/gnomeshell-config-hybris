@@ -1,9 +1,9 @@
 # Maintainer: Bardia Moshiri <fakeshell@bardia.tech>
 
 pkgname=gnomeshell-config-hybris
-conflicts=('phosh-config-hybris')
+conflicts=('phosh-config-hybris' 'plasmamobile-config-hybris')
 pkgver=0.2
-pkgrel=5
+pkgrel=6
 pkgdesc="Gnome shell configurations for Halium"
 arch=('any')
 url="https://github.com/manjaro-libhybris/gnomeshell-config-hybris"
